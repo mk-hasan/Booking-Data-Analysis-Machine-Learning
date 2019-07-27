@@ -3,7 +3,7 @@
 
 # Data Description!
 
-The data set is from a cruise ship **Booking!** company. In total it has 7 columns including **booking_probability** and **booking_value** .  I predicted booking_value(regression problem) and booking_probability(classification problem). 
+The data set is from a cruise ship **Booking!** company with around 20000 rows. In total it has 7 columns including **booking_probability** and **booking_value** .  I predicted booking_value(regression problem) and booking_probability(classification problem). 
 
 ![data_set_sample](/lead.png)
 
